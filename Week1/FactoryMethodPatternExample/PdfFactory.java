@@ -1,0 +1,6 @@
+package Week1.FactoryMethodPattern;
+public class PdfFactory extends DocumentFactory {
+    public Document createDocument() {
+        return new PdfDocument();
+    }
+}
