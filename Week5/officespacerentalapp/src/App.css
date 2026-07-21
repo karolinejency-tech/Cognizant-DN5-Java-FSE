@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#f5f5f5;
+}
+
+.container{
+    margin-left:150px;
+    margin-top:40px;
+}
+
+.officeCard{
+    margin-bottom:40px;
+}
+
+img{
+    border-radius:5px;
+}
+
+.textRed{
+    color:red;
+}
+
+.textGreen{
+    color:green;
+}
